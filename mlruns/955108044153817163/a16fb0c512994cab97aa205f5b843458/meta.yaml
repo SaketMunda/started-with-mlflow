@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/955108044153817163/a16fb0c512994cab97aa205f5b843458/artifacts
+end_time: 1729838930556
+entry_point_name: ''
+experiment_id: '955108044153817163'
+lifecycle_stage: active
+run_id: a16fb0c512994cab97aa205f5b843458
+run_name: omniscient-ray-292
+run_uuid: a16fb0c512994cab97aa205f5b843458
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729838922910
+status: 3
+tags: []
+user_id: starlord
